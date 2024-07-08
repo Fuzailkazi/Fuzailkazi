@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fuzailkazi
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning, Solidity, Rust, Web3 security,
-- 💞️ I’m looking to collaborate on Blockchain Development
-- 📫 How to reach me ... LinkedIn  https://www.linkedin.com/in/fuzail-kazi-9230b21b1/
+- 💞️ I’m looking to collaborate on Blockchain Development 
+- 📫 Connect with me on X https://twitter.com/fuzailkazi_
 
 <!---
 Fuzailkazi/Fuzailkazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
