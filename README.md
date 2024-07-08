@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fuzailkazi
+- 👋 Hi, I’m @Fuzailkazi DevRel at accelchain.xyz
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning, Solidity, Rust, Web3 security,
 - 💞️ I’m looking to collaborate on Blockchain Development 
