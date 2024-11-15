@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Blockchain development with Solidity or Ink! Frontend development with React.js & Next.js.**
 
-- 📫 How to reach me **X: @fuzailkazi_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
