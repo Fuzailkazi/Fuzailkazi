@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Mastering its system-level programming capabilities. Ink! Smart Contracts: Exploring Polkadot-based contract development.**
 
-- 👯 I’m looking to collaborate on **Web3 Projects: Blockchain-based applications that solve real-world problems. Rust and Full-Stack Development: Open-source projects or innovative MVPs.**
+- 👯 I’m looking to collaborate on **Web3 Projects: Blockchain-based applications. Rust and Full-Stack Development: Open-source projects or innovative MVPs.**
 
 - 🤝 I’m looking for help with **Learning and contributing to complex Rust-based systems**
 
