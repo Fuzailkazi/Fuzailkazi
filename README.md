@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuzail Kazi</h1>
-<h3 align="center">Product Manager | AI & SaaS Enthusiast | Fullstack Builder</h3>
+<h3 align="center">Product Manager | Fullstack Builder</h3>
 
 - 🔭 I’m currently working as a **Product Manager at [ArmorIQ](https://armoriq.ai)**, leading AI-powered security tooling and enterprise SaaS products.  
 - 🌱 I’m exploring **AI agent workflows, product strategy, user research, and building scalable SaaS products**.  
